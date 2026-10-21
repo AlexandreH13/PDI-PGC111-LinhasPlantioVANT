@@ -19,3 +19,27 @@ Este repositório apresenta a aplicação de métodos de processamento digital d
 **Métricas**
 
 Erro de espaçamento e de orientação; precisão e revocação das falhas detectadas.
+
+**Referências**
+
+```bibtex
+@misc{CropRowsDataset2019,
+  author = {Pereira Junior, P.C. and von Wangenheim, A.},
+  title = {Orthomosaic Dataset of RGB aerial Images for Crop Rows Detection},
+  year = {2019},
+  publisher = {LAPIX/UFSC},
+  journal = {INCoD Datasets Repository},
+  howpublished = {\url{http://www.lapix.ufsc.br/weed-mapping-sugar-cane}}
+}
+```
+
+```bibtex
+@misc{WeedMappingDataset2019,
+  author = {Monteiro, A.A.O. and von Wangenheim, A.},
+  title = {Orthomosaic Dataset of RGB aerial Images for Weed Mapping},
+  year = {2019},
+  publisher = {LAPIX/UFSC},
+  journal = {INCoD Datasets Repository},
+  howpublished = {\url{http://www.lapix.ufsc.br/weed-mapping-sugar-cane}}
+}
+```

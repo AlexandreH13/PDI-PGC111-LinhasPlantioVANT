@@ -1,0 +1,8 @@
+@misc{CropRowsDataset2019,
+  author = {Pereira Junior, P.C. and von Wangenheim, A.},
+  title = {Orthomosaic Dataset of RGB aerial Images for Crop Rows Detection},
+  year = {2019},
+  publisher = {LAPIX/UFSC},
+  journal = {INCoD Datasets Repository},
+  howpublished = {\url{http://www.lapix.ufsc.br/weed-mapping-sugar-cane}}
+}
