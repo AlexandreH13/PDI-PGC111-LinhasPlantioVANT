@@ -23,23 +23,11 @@ Erro de espaçamento e de orientação; precisão e revocação das falhas detec
 **Referências**
 
 ```bibtex
-@misc{CropRowsDataset2019,
-  author = {Pereira Junior, P.C. and von Wangenheim, A.},
-  title = {Orthomosaic Dataset of RGB aerial Images for Crop Rows Detection},
-  year = {2019},
-  publisher = {LAPIX/UFSC},
-  journal = {INCoD Datasets Repository},
-  howpublished = {\url{http://www.lapix.ufsc.br/weed-mapping-sugar-cane}}
-}
-```
-
-```bibtex
-@misc{WeedMappingDataset2019,
-  author = {Monteiro, A.A.O. and von Wangenheim, A.},
-  title = {Orthomosaic Dataset of RGB aerial Images for Weed Mapping},
-  year = {2019},
-  publisher = {LAPIX/UFSC},
-  journal = {INCoD Datasets Repository},
-  howpublished = {\url{http://www.lapix.ufsc.br/weed-mapping-sugar-cane}}
+@inproceedings{aslahishahri2021rgb,
+  title={From RGB to NIR: Predicting of near infrared reflectance from visible spectrum aerial images of crops},
+  author={Aslahishahri, Masoomeh and Stanley, Kevin G and Duddu, Hema and Shirtliffe, Steve and Vail, Sally and Bett, Kirstin and Pozniak, Curtis and Stavness, Ian},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={1312--1322},
+  year={2021}
 }
 ```
